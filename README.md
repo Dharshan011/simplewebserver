@@ -50,6 +50,5 @@ httpd.serve_forever()
 
 
 
-
-
 ## RESULT:
+Thus the simple webserver to serve HTML pages is created sucessfully.
