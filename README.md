@@ -48,7 +48,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-/home/sec/simplewebserver-1/webs.png
+
 
 
 
