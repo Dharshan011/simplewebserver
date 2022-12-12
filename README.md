@@ -47,7 +47,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
+https://github.com/Dharshan011/simplewebserver/blob/main/progweb.png
 
 
 ## RESULT:
