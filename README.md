@@ -47,9 +47,6 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-!["C:\Users\SEC\Downloads\webs .png"]
-
-!["C:\Users\SEC\Downloads\progweb.png"]
 
 ## RESULT:
 Thus the simple webserver to serve HTML pages is created sucessfully.
