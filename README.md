@@ -47,6 +47,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![output](./progweb.png)
+![output](./webs%20.png)
 
 ## RESULT:
 Thus the simple webserver to serve HTML pages is created sucessfully.
